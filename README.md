@@ -34,7 +34,7 @@ The raw dataset (us-shein-electronics-4395.csv) contained missing values, incons
 
 # Dashboard (Power BI)
 
-
+![SHEIN Electronics Dashboard](shein_electronics_dashboard.png)
 
 
 An interactive dashboard was built to visualize product insights.
