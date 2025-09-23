@@ -62,7 +62,6 @@ Distribution Insights (Bottom Row):
 
 # Project Structure:
 ├── data/
-
 │    └── cleaned_us-shein-electronics.csv
 ├── notebooks/
 │    └── shein_cleaning.ipynb
