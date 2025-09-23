@@ -82,4 +82,4 @@ Open shein_dashboard.pbix in Power BI to interact with the dashboard.
 
 Author
 
-Project by Yusuf Kamal — aspiring Data Analyst.
+Project by Yusuf Kamal
