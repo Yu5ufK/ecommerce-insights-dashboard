@@ -62,13 +62,21 @@ Distribution Insights (Bottom Row):
 
 # Project Structure:
 ├── data/
+
 │   └── cleaned_us-shein-electronics.csv
+
 ├── notebooks/
+
 │   └── shein_cleaning.ipynb
+
 ├── dashboard/
+
 │   └── shein_dashboard.pbix
+
 ├── images/
+
 │   └── dashboard_screenshot.png
+
 └── README.md
 
 # How to Use:
